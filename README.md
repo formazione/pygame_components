@@ -15,4 +15,4 @@
 >to make it playable for everyone without installation of anything into the browser with the same frame rate you would have in a window of the os.
 
 >[Post about pygame_entry](https://pythonprogramming.altervista.org/pygame-in-the-browser-with-pygbag-and-github/)
->[]("https://i0.wp.com/pythonprogramming.altervista.org/wp-content/uploads/2023/06/image-16.png?w=766&ssl=1")
+>[]!("https://i0.wp.com/pythonprogramming.altervista.org/wp-content/uploads/2023/06/image-16.png?w=766&ssl=1")
