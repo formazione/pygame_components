@@ -16,4 +16,4 @@
 
 >[Post about pygame_entry](https://pythonprogramming.altervista.org/pygame-in-the-browser-with-pygbag-and-github/)
 
->![]("https://i0.wp.com/pythonprogramming.altervista.org/wp-content/uploads/2023/06/image-16.png?w=766&ssl=1")
+>![](https://i0.wp.com/pythonprogramming.altervista.org/wp-content/uploads/2023/06/image-16.png?w=766&ssl=1)
