@@ -6,7 +6,7 @@
 
 - movements of a rectangle
 - movement of a surface
-
+[]!(https://pythonprogramming.altervista.org/pygame-in-the-browser-with-pygbag-and-github/)
 ### pygame_entry.py
 >Example of an entry widget with pygame. It uses asyncio to use this file in a browser with pygbag. Install pygbag with pip install pygbag.  
 >Then call this file main.py, go in the folder that contains the folder (es. 'game')that contains main.py and with cmd execute the command 'pygbag game'  
