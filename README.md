@@ -14,4 +14,4 @@
 >You will find a buil directory in game. Into this build folder you find a web folder with the file to upload to your site (or itch.io, or github repo like for example formazione.github.io/...) 
 >to make it playable for everyone without installation of anything into the browser with the same frame rate you would have in a window of the os.
 
-[](https://pythonprogramming.altervista.org/pygame-in-the-browser-with-pygbag-and-github/)
+[Post about pygame_entry](https://pythonprogramming.altervista.org/pygame-in-the-browser-with-pygbag-and-github/)
